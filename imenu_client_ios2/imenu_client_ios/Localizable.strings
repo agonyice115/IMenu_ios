@@ -1,0 +1,253 @@
+/* 
+  Localizable.strings
+  imenu_client_ios
+
+  Created by 李亮 on 13-12-3.
+  Copyright (c) 2013年 西安树萤信息科技有限公司. All rights reserved.
+*/
+
+/**
+ *  @brief 客户端提示
+ */
+"networking_error"="网络通讯失败！";
+
+"login_view_error_tip1"="请输入正确的手机号码";
+"login_view_error_tip2"="请输入正确的邮箱地址";
+
+"forgot_view_error_tip1"="请输入正确的手机号码";
+"forgot_view_error_tip2"="请输入正确的邮箱地址";
+"forgot_view_error_tip3"="密码长度错误";
+"forgot_view_error_tip4"="两次密码输入不同";
+
+"register_view_error_tip1"="请输入正确格式昵称";
+"register_view_error_tip2"="请输入正确格式密码";
+"register_view_error_tip3"="正在校验昵称···";
+
+"account_view_success_tip1"="绑定新浪账号成功";
+"account_view_success_tip2"="绑定人人账号成功";
+
+"cart_view_error_tip1"="请选择就餐人数";
+
+"dynamic_view_success_tip1"="20|赞成功";
+"dynamic_view_success_tip2"="20|取消赞成功";
+"dynamic_view_success_tip3"="20|评论成功";
+
+"feedback_view_error_tip1"="12|请选择问题分类";
+"feedback_view_error_tip2"="12|请输入您的反馈";
+
+"setting_view_success_tip1"="11|清理完毕";
+
+"dynamic_view_error_tip1"="说说此刻的想法再保存吧";
+"dynamic_view_error_tip2"="说说此刻的想法再发布吧";
+
+"search_view_error_tip1"="没有搜索到，换个关键词试试";
+
+/**
+ *  性别
+ */
+"sex_man"="男";
+"sex_woman"="女";
+
+/**
+ *  提示按钮文字
+ */
+"tip_button_ok"="确认";
+"tip_button_cancel"="取消";
+"tip_button_logout"="退出账号";
+"tip_button_camera"="拍照";
+"tip_button_album"="从相册中选择";
+"tip_button_save_photo"="保存到相册";
+"tip_button_login_title"="你必须登录才能继续";
+"tip_button_login"="现在就登录";
+"tip_button_register"="注册新账号";
+
+/**
+ *  未登录导航栏按钮标题
+ */
+"unlogin_title_login"="登陆";
+"unlogin_title_register"="注册";
+
+/**
+ *  登录页标题
+ */
+"login_title_phone"="手机号码登录";
+"login_title_mail"="邮箱登录";
+
+/**
+ *  登陆页
+ */
+"login_view_phone"="手机号码";
+"login_view_phone_default"="必填";
+"login_view_mail"="邮 箱";
+"login_view_mail_default"="必填";
+"login_view_password"="密 码";
+"login_view_password_default"="必填";
+"login_view_forgot"="忘记";
+"login_view_forgot_password"="忘记密码？";
+"login_view_enter"="进 入";
+
+/**
+ *  忘记密码标题
+ */
+"forgot_title1"="手机号码密码找回";
+"forgot_title2"="邮箱密码找回";
+"forgot_title3"="密码重设";
+
+/**
+ *  忘记密码页
+ */
+"forgot_view_mail"="邮 箱";
+"forgot_view_mail_default"="必填";
+
+"forgot_view_phone_confirm"="确 认";
+
+"forgot_view_phone"="手机号码";
+"forgot_view_phone_default"="必填";
+"forgot_view_phone_tip1"="验证码已发送至手机号：";
+"forgot_view_phone_default1"="请输入验证码";
+"forgot_view_phone_tip2"="若未收到　　秒后重新获取验证码";
+"forgot_view_phone_resend"="重新发送";
+"forgot_view_phone_next"="下一步";
+
+"forgot_view_phone_tip3"="设置新的密码";
+"forgot_view_phone_default2"="请输入新的密码";
+"forgot_view_phone_default3"="请再次输入新的密码";
+"forgot_view_phone_complete"="完 成";
+
+/**
+ *  注册页标题
+ */
+"register_title1"="注册";
+"register_title2"="选择国家或地区";
+"register_title3"="使用条款和隐私政策";
+"register_title4"="个人信息";
+"register_title5"="相关账户";
+
+/**
+ *  注册页
+ */
+"register_view_phone"="手机号码";
+"register_view_phone_default"="必填";
+"register_view_tip1"="已阅读并同意";
+"register_view_clause"="已阅读并同意使用条款和隐私政策";
+"register_view_next"="下一步";
+
+"register_view_tip2"="验证码已发送至手机号：%@";
+"register_view_default1"="请输入验证码";
+"register_view_tip3"="若未收到，%d秒后重新获取验证码";
+"register_view_resend"="重新发送";
+
+"register_view_password"="设置密码";
+"register_view_password_default"="（6-32位字符或数字）";
+"register_view_nick"="昵称";
+"register_view_nick_default"="（2-10个字符）";
+"register_view_sex"="性别";
+"register_view_more"="完善信息";
+"register_view_register"="快速注册";
+
+"register_view_signature"="个性签名";
+
+"register_view_mail"="邮箱";
+"register_view_mail_default"="（可以找回密码和优惠信息发送）";
+"register_view_name"="真实姓名";
+"register_view_name_default"="（真实姓名有助于账号安全）";
+"register_view_birthday"="生日";
+"register_view_birthday_default"="（真实日期可以享受打折优惠）";
+"register_view_local"="所在地";
+"register_view_local_default"="中国/省份/城市";
+"register_view_accounts"="相关账户";
+"register_view_complete"="完 成";
+"register_view_sina"="新浪微博";
+"register_view_wechat"="微信";
+"register_view_renren"="人人";
+
+/**
+ *  主页分类标题
+ */
+"main_title1"="我的";
+"main_title2"="动态";
+"main_title3"="商家";
+"main_title4"="搜索";
+
+/**
+ *  商家排序标题
+ */
+"store_sort_title1"="距离";
+"store_sort_title2"="价格";
+"store_sort_title3"="热门";
+
+"store_filter_title1"="分类";
+"store_filter_title2"="地区";
+"store_filter_title3"="服务";
+
+"menu_filter_title1"="类别";
+"menu_filter_title2"="条件";
+
+"recommend_title1"="二人";
+"recommend_title2"="四人";
+"recommend_title3"="六人";
+
+/**
+ *  商户详情标题
+ */
+"store_details_title"="商户";
+"store_map_title"="商户位置";
+
+/**
+ *  设置页面
+ */
+"setting_view_title"="设置";
+"setting_view_subtitle1"="个人设置";
+"setting_view_subtitle2"="通用设置";
+"setting_view_subtitle3"="关于设置";
+"setting_view_subtitle4"="皮肤选择";
+
+"setting_view_logout"="退出账号";
+
+"setting_view_skin_select"="皮肤选择";
+"setting_view_clear_cache"="清除缓存";
+
+"setting_view_about1"="关于微点";
+"setting_view_about2"="意见反馈";
+"setting_view_about3"="软件评分";
+"setting_view_about4"="新版本检测";
+"setting_view_about4b"="当前版本v1.1";
+
+/**
+ *  @brief 关注页面
+ */
+"follow_segment_kind1"="用户";
+"follow_segment_kind2"="商家";
+
+/**
+ *  @brief 购物车和订单
+ */
+"cart_view_title"="购物车";
+"order_view_title"="订单详情";
+"dynimic_view_title"="动态详情";
+"order_list_view_title"="订单列表";
+
+"cart_view_button1"="加菜";
+"cart_view_button2"="确认";
+"cart_view_button3"="清空";
+"cart_view_button4"="发布动态";
+"cart_view_button5"="保存动态";
+
+/**
+ *  @brief 动态页面
+ */
+"dynamic_group_title1"="年";
+"dynamic_group_title2"="月";
+"dynamic_group_title3"="周";
+
+"dynamic_button_public"="已发布";
+"dynamic_button_un_public"="未发布";
+
+/**
+ *  @brief 搜索页面
+ */
+"serch_view_title1"="菜单";
+"serch_view_title2"="商家";
+"serch_view_title3"="动态";
+"serch_view_title4"="用户";
+

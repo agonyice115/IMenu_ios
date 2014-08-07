@@ -1,0 +1,40 @@
+10
+
+dir
+375
+svn://www.oksvn.com/imenu_client_ios/imenu_client_ios2/ShareSDK
+svn://www.oksvn.com/imenu_client_ios
+
+
+
+2014-08-01T05:45:07.830525Z
+374
+luciferfly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0fccb7b8-edde-594d-a494-3e010204ae22
+
+Extend
+dir
+
+Core
+dir
+
+Connection
+dir
+
+ShareSDK.framework
+dir
+
